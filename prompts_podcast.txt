@@ -1,0 +1,85 @@
+CHATGPT
+
+1) Prompt Nome do Podcast:
+
+Você é um roteirista de podcast e vamos criar um podcast de tecnologia focado 
+em inteligencia artificial e eu gostaria de sua ajuda para 5 sugestões de nomes
+criativos para um podcast de inteligencia artificial feito por nerds e que tenha
+alguma referência ou trocadilho de filmes ou séries no nome.
+O publico do podcast são profissionais de tecnologia que trabalham na área de Operações/Produção e 
+querem migrar para a área de inteligência artificial
+
+[REGRAS]
+O nome deve ser enxuto, um nome e um subtítulo
+O nome tenha algum trocadilho nerd com nomes de filmes ou séries
+O nome deve conter alguma palavra que remeta a inteligencia artificial
+
+[REGRAS NEGATIVAS]
+Não quero que contenha palavras em inglês
+
+
+Resultado escohido: 
+"Matrix Neural - Escolhendo o caminho para dominar a inteligência artificial"
+----------------------------------------
+
+2) Prompt Roteiro do Podcast
+
+Você é um roteirista de podcast e vamos criar um podcast de tecnologia focado 
+em inteligencia artificial cujo nome é "Matrix Neural - Escolhendo o caminho 
+para dominar a inteligência artificial" cujo publico alvo são profissionais 
+de tecnologia que trabalham na área de Operações/Produção e querem migrar para a área de 
+inteligência artificial.
+
+o formato do roteiro deve ter
+[INTRODUÇÃO]
+[DICA 1]
+[DICA 2]
+[DICA 3]
+[FINALIZAÇÃO]
+
+{REGRAS}
+No bloco [INTRODUÇÃO] substitua por uma introdução que contenha referência o filme Matrix.
+No bloco [DICA 1] substitua por dica relacionada a linguagem que deve ser aprendida
+No bloco [DICA 1] substitua por dicas de ferramentas que deverá se familiarizar como GitHub
+No bloco [DICA 1] substitua por dicas relacionadas a aproveitar o conhecimento atual que o profissional ja
+tem como por exemplo Linux
+No bloco [FINALIZAÇÃO] substitua por uma despedida cool com final "Eu sou a Cinthia e esse foi o Matrix Neural dessa seana.
+Use linguagem informal
+O podcast deve ser apresentado por somente uma pessoa chamada Cinthia
+O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+Não ultrapasse 5 minutos de duração.
+
+
+
+Resultado:
+[INTRODUÇÃO]
+Bem-vindos ao Matrix Neural, o podcast onde você escolhe entre a pílula azul e a vermelha. 
+Aqui, vamos atravessar a fronteira entre o mundo das operações e a inteligência artificial. 
+Se você está pronto para dominar as máquinas e reescrever seu futuro na TI, cola comigo que a jornada começa agora!
+
+[DICA 1]
+Pra começar a programar em IA, a primeira parada obrigatória é Python. 
+Sério, essa é a linguagem que todo mundo usa no mundo da IA, de startups a big techs. 
+Ela é amigável, cheia de bibliotecas prontinhas pra você usar, como TensorFlow e PyTorch. 
+Então, começa hoje mesmo com tutoriais básicos e depois dê um salto pros cursos mais focados em machine learning. 
+Quanto mais cedo você dominar Python, mais rápido você vai construir algo incrível.
+
+[DICA 2]
+Agora, não dá pra falar de trabalho em IA sem mencionar ferramentas. 
+E aqui entra o GitHub. Ele vai ser o seu cofre de projetos, o lugar onde você compartilha código e colabora com outras mentes brilhantes. 
+Crie um repositório, explore projetos open source de IA e, principalmente, pratique usando Git para versionamento. 
+Isso vai deixar seu trabalho mais organizado e profissional.
+
+[DICA 3]
+Por fim, é hora de aproveitar o que você já sabe! 
+Se você é fera em Linux, use isso como trunfo. 
+Muitas soluções de IA rodam em servidores Linux, e conhecer bem o sistema operacional vai te dar uma vantagem absurda. 
+Automatização de scripts, gestão de servidores, tudo isso é ouro no universo da inteligência artificial.
+
+[FINALIZAÇÃO]
+Então é isso, pessoal! 
+Escolha a sua pílula vermelha, se jogue no mundo da IA e lembre-se: dominar essa área é uma questão de foco e ação. 
+Eu sou a Cinthia e esse foi o Matrix Neural dessa semana. Até a próxima!
+
